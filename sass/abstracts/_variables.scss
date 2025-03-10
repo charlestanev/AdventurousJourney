@@ -1,28 +1,26 @@
 // COLORS
-$color-primary: #55c57a;
-$color-primary-light: #7ed56f;
-$color-primary-dark: #28b485;
+$color-primary: red; // A modern blue for a sense of adventure and energy
+$color-primary-light: red; // A lighter blue for contrast
+$color-primary-dark: red; // A deeper, richer blue
 
-$color-secondary-light: #ffb900;
-$color-secondary-dark: #ff7730;
+$color-secondary-light: #f5a623; // A warm golden-orange for accents
+$color-secondary-dark: #d97d0d; // A stronger shade for contrast
 
-$color-tertiary-light: #2998ff;
-$color-tertiary-dark: #5643fa;
+$color-tertiary-light: #50e3c2; // A fresh teal for a vibrant, adventurous feel
+$color-tertiary-dark: #0c9b83; // A deeper teal for a bold look
 
-$color-grey-light-1: #f7f7f7;
-$color-grey-light-2: #eee;
+$color-grey-light-1: #f5f5f5; // Softer light grey for backgrounds
+$color-grey-light-2: #e0e0e0; // Slightly darker grey for subtle contrast
 
-$color-grey-dark: #777;
-$color-grey-dark-2: #999;
-$color-grey-dark-3: #333;
+$color-grey-dark: #666; // Softer dark grey for readability
+$color-grey-dark-2: #888; // Mid-tone grey for neutral elements
+$color-grey-dark-3: #222; // Stronger dark grey for high contrast
 
-$color-white: #fff;
-$color-black: #000;
-
+$color-white: #ffffff; // Pure white
+$color-black: #111111; // Slightly off-black for a smoother visual effect
 
 // FONT
 $default-font-size: 1.6rem;
-
 
 // GRID
 $grid-width: 114rem;
