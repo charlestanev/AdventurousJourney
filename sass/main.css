@@ -351,7 +351,7 @@ body {
 }
 .card__picture {
   background-size: cover;
-  height: 23rem;
+  height: 33rem;
   background-blend-mode: screen;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
